@@ -16,3 +16,9 @@ El juego permite a los usuarios disfrutar de dos modos de juego, con diferentes 
 - **Fácil**: 20 intentos
 - **Medio**: 12 intentos
 - **Difícil**: 5 intentos
+- **Personalizable**: el jugador introduce que número de intentos desea tener
+
+- #### Estadísticas
+
+- Filtro de estadísticas por jugador
+- Gráficas del ratio victoria/derrota por jugador
